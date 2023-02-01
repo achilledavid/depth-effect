@@ -1,0 +1,32 @@
+.card {
+    width: 300px;
+    aspect-ratio: 1;
+    display: flex;
+    flex-wrap: wrap;
+    transition: 100ms;
+    margin: 100px;
+
+    &-1 {
+        background-color: blue;
+        width: 50%;
+        height: 50%;
+    }
+
+    &-2 {
+        background-color: green;
+        width: 50%;
+        height: 50%;
+    }
+
+    &-3 {
+        background-color: yellow;
+        width: 50%;
+        height: 50%;
+    }
+
+    &-4 {
+        background-color: red;
+        width: 50%;
+        height: 50%;
+    }
+}

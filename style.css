@@ -1,0 +1,30 @@
+.card {
+  width: 300px;
+  aspect-ratio: 1;
+  display: flex;
+  flex-wrap: wrap;
+  transition: 100ms;
+  margin: 100px;
+}
+.card-1 {
+  background-color: blue;
+  width: 50%;
+  height: 50%;
+}
+.card-2 {
+  background-color: green;
+  width: 50%;
+  height: 50%;
+}
+.card-3 {
+  background-color: yellow;
+  width: 50%;
+  height: 50%;
+}
+.card-4 {
+  background-color: red;
+  width: 50%;
+  height: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
